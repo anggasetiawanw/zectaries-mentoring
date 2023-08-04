@@ -1,0 +1,3 @@
+git add -> digunakan untuk menambahkan file
+git commit -> digunakan untuk memasukan file yang sudah di tambahkan ke staged.
+git push -> untuk mengirim data local ke data github(cloud)
